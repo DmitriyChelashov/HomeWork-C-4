@@ -1,7 +1,5 @@
 ﻿// Найти точку пересечения двух прямых заданных уравнением y = k1 * x + b1, y = k2 * x + b2, b1 k1 и b2 и k2 заданы
 
-Console.WriteLine($"\nЗадача 43.  Найти точку пересечения двух прямых \n");
-
 double[,] coeff = new double[2, 2];
 double[] crossPoint = new double[2];
 
